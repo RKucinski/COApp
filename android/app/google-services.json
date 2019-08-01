@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218636172845",
+    "firebase_url": "https://coapp-c3d65.firebaseio.com",
+    "project_id": "coapp-c3d65",
+    "storage_bucket": "coapp-c3d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218636172845:android:cf14e8334e38385b",
+        "android_client_info": {
+          "package_name": "com.coapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218636172845-hjkl870rirks67956cjmcfgfjbc71shm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coapp",
+            "certificate_hash": "9620fa868a801d89a983dc3a5e89efd663f3e0de"
+          }
+        },
+        {
+          "client_id": "218636172845-r5fsaaqgcprs1p8ous9a30u4ivvh7lh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fT39WYQO_kme-l54NrRJHoikMvYg0a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218636172845-r5fsaaqgcprs1p8ous9a30u4ivvh7lh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218636172845-402mv9ubun0tn8cebksecuk02mitcf3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
